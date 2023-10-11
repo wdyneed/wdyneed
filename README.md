@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+SNS List
+ <a href="https://blog.naver.com/zlsoq" target="_blank"><img src="https://img.shields.io/badge/naver-#03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
