@@ -20,6 +20,7 @@ Here are some ideas to get you started:
      SNS List
   <h3>
  <a href="https://blog.naver.com/zlsoq" target="_blank"><img src="https://img.shields.io/badge/Blog-gray? style=flat-square&logo=naver&logoColor=#03C75A"/></a>
+ <a href="https://velog.io/@wdyneed" target="_blank"><img src="https://img.shields.io/badge/velog-20C997? style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
 
 <div align="center">
