@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 </div>
 <h3 align="center">
   Git Stat
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wdyneed&show_icons=true&theme=tokyonight)
 </h3>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wdyneed&show_icons=true&theme=tokyonight)
   
 
 
