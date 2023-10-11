@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> 
-  # Hi ~ 
-</div>
+<center>
+  
+</center>
 
 <div align="center"> 
-  ## SNS List
- <a href="https://blog.naver.com/zlsoq" target="_blank"><img src="https://img.shields.io/badge/Blog-gray?style=flat-square&logo=naver&logoColor=#03C75A"/></a>
+  <h1>
+     SNS List
+  <h1>
+  <a href="https://blog.naver.com/zlsoq" target="_blank"><img src="https://img.shields.io/badge/Blog-gray? 
+style=flat-square&logo=naver&logoColor=#03C75A"/></a>
 </div>
 
 
