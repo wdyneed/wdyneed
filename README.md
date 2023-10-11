@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> 
-  <h3>
+  <h2>
      SNS List
-  <h3>
+  <h2>
  <a href="https://blog.naver.com/zlsoq" target="_blank"><img src="https://img.shields.io/badge/Blog-gray? style=flat-square&logo=naver&logoColor=#03C75A"/></a>
  <a href="https://velog.io/@wdyneed" target="_blank"><img src="https://img.shields.io/badge/velog-20C997? style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <div align="center">
   <br>
   <br>
-  <h3>
+  <h2>
     Tech Stack
-  </h3>
+  </h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<h3 align="center">
+<h2 align="center">
   Stats
-</h3>
+</h2>
 
 <div align="center">
 
