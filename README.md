@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h3 align="center">
   Git Stat
 </h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdyneed)](https://github.com/anuraghazra/github-readme-stats)
+![wdyneed's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdyneed&show_icons=true&theme=white)
   
 
 
