@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 
-SNS List
- <a href="https://blog.naver.com/zlsoq" target="_blank"><img src="https://img.shields.io/badge/naver-green?style=flat-square&logo=naver&logoColor=#03C75A"/></a>
+## SNS List
+ <a href="https://blog.naver.com/zlsoq" target="_blank"><img src="https://img.shields.io/badge/Blog-green?style=flat-square&logo=naver&logoColor=#03C75A"/></a>
