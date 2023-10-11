@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 </center>
 
 <div align="center"> 
-  <h1>
+  <h3>
      SNS List
-  <h1>
+  <h3>
  <a href="https://blog.naver.com/zlsoq" target="_blank"><img src="https://img.shields.io/badge/Blog-gray? style=flat-square&logo=naver&logoColor=#03C75A"/></a>
 </div>
 
