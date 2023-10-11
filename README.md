@@ -24,12 +24,12 @@ Here are some ideas to get you started:
      SNS List
   <h3>
  <a href="https://blog.naver.com/zlsoq" target="_blank"><img src="https://img.shields.io/badge/Blog-gray? style=flat-square&logo=naver&logoColor=#03C75A"/></a>
-
-
-  <h3>
-      Git Stat
-  </h3>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wdyneed&show_icons=true&theme=tokyonight)
 </div>
+<h3 align="center">
+  Git Stat
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wdyneed&show_icons=true&theme=tokyonight)
+</h3>
+  
+
 
 
