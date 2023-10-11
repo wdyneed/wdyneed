@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **wdyneed/wdyneed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-
-## SNS List
+<div align="center">
+ # Hi there 👋
+ 
+  ## SNS List
  <a href="https://blog.naver.com/zlsoq" target="_blank"><img src="https://img.shields.io/badge/Blog-gray?style=flat-square&logo=naver&logoColor=#03C75A"/></a>
+</div>
+
+
