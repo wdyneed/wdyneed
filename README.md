@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
   ![wdyneed's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdyneed&show_icons=true&theme=white)
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gxc1013)](https://solved.ac/gxc1013/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gxc1013)](https://solved.ac/profile/gxc1013/)
   
 </div>
 
