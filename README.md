@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 <h3 align="center">
   Git Stat
 </h3>
+    
 ![wdyneed's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdyneed&show_icons=true&theme=white)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gxc1013)](https://solved.ac/gxc1013/)
   
 
