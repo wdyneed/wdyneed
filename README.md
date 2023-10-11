@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
+  <br>
+  <br>
   <h3>
     Tech Stack
   </h3>
@@ -41,7 +43,8 @@ Here are some ideas to get you started:
 
 </div>
 
-    
+<br>
+<br>
 <h3 align="center">
   Stats
 </h3>
